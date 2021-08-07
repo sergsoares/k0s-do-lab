@@ -11,7 +11,7 @@ bash update.sh
 bash update.sh
 
 # delete 
-
+bash delete.sh
 ```
 
 ## References
