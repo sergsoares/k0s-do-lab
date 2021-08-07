@@ -1,0 +1,1 @@
+doctl compute droplet-action shutdown $(doctl compute droplet list --format ID --no-header --tag-name k0s) 

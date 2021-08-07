@@ -1,0 +1,1 @@
+doctl compute droplet-action resize $(doctl compute droplet list --format ID --no-header --tag-name k0s) --size s-4vcpu-8gb
